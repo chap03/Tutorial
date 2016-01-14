@@ -4,4 +4,4 @@ Some text file
 
 Made a change
 
-
+Someone else changed something
